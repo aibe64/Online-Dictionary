@@ -1,0 +1,11 @@
+section{
+  /* height: 470px; */
+  overflow: auto;
+  background: linear-gradient(rgba(255, 255, 255, 0.911), rgba(252, 252, 253, 0.877)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzraa2iBcarVxxil_vXkubFZFFwpOYcSqtkBHy09hRRa_lFR9K&usqp=CAU); 
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+input.wordId{
+  width: 60%;
+  margin: 0 auto;
+}
